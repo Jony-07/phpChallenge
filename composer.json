@@ -1,0 +1,20 @@
+{
+    "name": "jdev07/php-challenge",
+    "description": "Is a test",
+    "license": "propietary",
+    "autoload": {
+        "psr-4": {
+            "Jdev07\\PhpChallenge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jony Morales",
+            "email": "jony25lopezml@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
